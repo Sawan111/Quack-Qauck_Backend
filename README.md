@@ -1,4 +1,4 @@
-![Quack Quack Chat APP](https://github.com/Sawan111/Quack-Qauck-frontend/blob/main/public/favicon-64x64.png)
+![Quack Quack Chat APP](https://github.com/Sawan111/Quack-Qauck-frontend/blob/main/public/favicon-32x32.png)
 
 ### `npm start`
 Runs the app in **development mode**.  
